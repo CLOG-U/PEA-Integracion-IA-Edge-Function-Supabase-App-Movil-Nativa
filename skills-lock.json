@@ -1,0 +1,12 @@
+{
+  "note": "Registro local de procedencia: la CLI actual no genera skills-lock.json",
+  "skills": {
+    "android-cli": {
+      "source": "https://github.com/android/skills",
+      "installedBy": "Android CLI 1.0.16625370",
+      "path": ".agents/skills/android-cli/SKILL.md",
+      "sha256": "e1e25cd750da13b9c43196e7bd2a04d52eb3e2f381ba5b7da2b50009df0b3475"
+    }
+  },
+  "version": 1
+}
